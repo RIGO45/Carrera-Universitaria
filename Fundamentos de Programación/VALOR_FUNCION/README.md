@@ -1,7 +1,7 @@
 # VALOR_FUNCION
 ## Descripción:
 Dado un valor, se multiplicará, dividirá o sacará potencia de 100 según la opcion seleccionada.
-## Aprendizaje:
+## Propósito:
 Aprender a utilizar la función switch, realizando operaciones aritméticas y un menú interactivo para el usuario.
 ## Lenguaje de Programación utilizado:
 <p align="left">
