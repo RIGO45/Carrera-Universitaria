@@ -1,7 +1,7 @@
 # Carrera-Universitaria
 ## Descripción:
 Repositorio en el cuál estaré subiendo códigos y proyectos que he realizado durante mi formación para Ingeniero en Sistemas Computacionales.
-## Motivación:
+## Propósito:
 Tener guardado en una plataforma pública mis avances en el mundo de la programación y si alguien se intereza en alguno de mis códigos, juntos poder mejorarlo.
 ## Lenguajes de Programación Utilizados:
 <p align="left">
