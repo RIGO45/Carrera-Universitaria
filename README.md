@@ -3,7 +3,7 @@
 Repositorio en el cuál estaré subiendo códigos y proyectos que he realizado durante mi formación para Ingeniero en Sistemas Computacionales.
 ## Motivación:
 Tener guardado en una plataforma pública mis avances en el mundo de la programación y si alguien se intereza en alguno de mis códigos, juntos poder mejorarlo.
-## Tech Stack:
+## Lenguajes de Programación Utilizados:
 <p align="left">
   <!-- C -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="100" height="100"/>
